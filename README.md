@@ -16,6 +16,7 @@ melainkan kehadiran.
 </p>
 
 [Penjelasan lengkap project ini terdapat juga di medium](https://medium.com/@aoramaaulia/revenue-naik-1-persen-terdengar-aman-sampai-angkanya-dipecah-8648597f9aa8?sharedUserId=aoramaaulia)
+
 ---
 
 ## Latar belakang
