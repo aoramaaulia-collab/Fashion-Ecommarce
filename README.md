@@ -14,7 +14,7 @@ melainkan kehadiran.
 <img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-viz-A86A45">
 <img alt="Tableau" src="https://img.shields.io/badge/Tableau-dashboard-333">
 </p>
-
+Penjelasan lengkap project ini terdapat juga di medium [Link Medium](https://drive.google.com/file/d/1Z7z2hD7AA-dnxt1DfuSRAW0IlcHdBS61/view?usp=sharing)
 ---
 
 ## Latar belakang
