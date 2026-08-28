@@ -14,7 +14,8 @@ melainkan kehadiran.
 <img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-viz-A86A45">
 <img alt="Tableau" src="https://img.shields.io/badge/Tableau-dashboard-333">
 </p>
-Penjelasan lengkap project ini terdapat juga di medium .[Link Medium](https://medium.com/@aoramaaulia/revenue-naik-1-persen-terdengar-aman-sampai-angkanya-dipecah-8648597f9aa8?sharedUserId=aoramaaulia)
+
+[Penjelasan lengkap project ini terdapat juga di medium](https://medium.com/@aoramaaulia/revenue-naik-1-persen-terdengar-aman-sampai-angkanya-dipecah-8648597f9aa8?sharedUserId=aoramaaulia)
 ---
 
 ## Latar belakang
